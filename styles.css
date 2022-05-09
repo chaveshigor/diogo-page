@@ -116,6 +116,10 @@ li {
   margin: 5px 0;
 }
 
-#titulo {
-  margin-bottom: 20px;
+.titulo {
+  margin-bottom: 80px;
+}
+
+#logo1 {
+  height: 20px;
 }
