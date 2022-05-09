@@ -7,6 +7,10 @@
   font-weight: normal;
 }
 
+b {
+  font-weight: bolder;
+}
+
 div {
   display: flex;
   flex-direction: column;
@@ -110,4 +114,8 @@ li {
   align-items: center;
   column-gap: 5px;
   margin: 5px 0;
+}
+
+#titulo {
+  margin-bottom: 20px;
 }
